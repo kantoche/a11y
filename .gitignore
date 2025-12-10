@@ -16,3 +16,7 @@
 # Visual Studio Code
 /.vscode
 .history
+
+# Key
+gh-pages
+gh-pages.pub
